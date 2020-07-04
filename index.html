@@ -1,11 +1,12 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Nastos Vasileios | Νάστος Βασίλειος</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
     body{
         background-color: #ccffff;
+        color: black;
     }
 
     abbr {
@@ -19,7 +20,7 @@
         left: 15%;
         display: block;
         padding: 1.5em;
-        background: #ccffff;
+        background: #990033;
         content: attr(title);
     }
 
@@ -27,7 +28,7 @@
   font-weight: 900;
   font-size: 32px;
   font-family: calibri;
-  color: white;
+  color: black;
 }
 
 .ml1 .letter {
@@ -49,43 +50,57 @@
   left: 0;
   height: 3px;
   width: 100%;
-  background-color: #fff;
+  background-color: brown;
   transform-origin: 0 0;
 }
 
 .ml1 .line1 { top: 0; }
-.ml1 .line2 { bottom: 0; }
-</style>
-</head>
+.ml1 .line2 { bottom: 0; }  
 
+hr.h1 {
+  border: 3px solid white;
+  width: 80%;
+}
+
+tab1 { padding-left: 4em; }
+
+</style>
+
+
+</head>
 <body>
-<center>
-  <h1 class="ml1">
+    <center><h1 class="ml1">
         <span class="text-wrapper">
           <span class="line line1"></span>
-          <span class="letters"><b style="color: black; font-family: calibri;">Τμήμα Πληροφορικής & Τηλεπικοινωνιών</b></span>
+          <span class="letters"><b style="color: white; font-family: calibri;">Τμήμα Πληροφορικής & Τηλεπικοινωνιών  </b></span>
           <span class="line line2"></span>
         </span>
       </h1>
       </center>
-  
-<h2 style="color:black; text-align: center; font-family: calibri;">ΣΥΝΤΑΚΤΗΣ:ΝΑΣΤΟΣ ΒΑΣΙΛΕΙΟΣ</h2>
-<h2 style="color:black; text-align: center; font-family: calibri;"><i>ΑΜΕΣΟΣ ΣΥΝΕΡΓΑΤΗΣ:</i><a href="https://ksakkas.github.io/Learn-Create-Site/" target="_blank">ΣΑΚΚΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</a></h2>
-<br>
-  
-<div class="row">
-  <a href="https://github.com/vasnastos/PROGRAMMING_TO_C" target="_blank">
-   <abbr style=" text-align: center; font-family: calibri;" title="Programming in c repository">
-      <img alt="PROGRAMMING_TO_C" src="img/newpicture.png" width="300px" height="250px"></abbr>
-    </a>
-    
-     <a href="https://github.com/vasnastos/PROGRAMMING-IN-QT" target="_blank">
-          <abbr style=" text-align: center; font-family: calibri;" title="Programming in Qt">
-            <img src="img/Picturenew.png" width="300px" height="250px"> </abbr>
-     </a>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
-  </div>
-  
+    <h1 style="color:black; text-align: center; font-family: calibri;">
+    <b>ΣΥΝΤΑΚΤΗΣ:ΝΑΣΤΟΣ ΒΑΣΙΛΕΙΟΣ</b></h1>    
+
+    <h1 style="color:black; text-align: center; font-family: calibri;">
+        <b>ΑΜΕΣΟΣ ΣΥΝΕΡΓΑΤΗΣ: <a href="https://ksakkas.github.io/" target="_blank">ΣΑΚΚΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</a></b></h1>    
+    
+ 
+    <br>
+    <br>  <center>
+    <div class="row">
+        <a href="https://github.com/vasnastos/PROGRAMMING_TO_C" target="_blank">
+            <abbr style=" text-align: center; font-family: calibri; color:white;" title="Programming in c repository"><img src="img/newpicture.png" width="230px" height="240px"></abbr></a>
+                <tab1> </tab1>
+            <a href="https://github.com/vasnastos/PROGRAMMING-IN-QT" target="_blank">
+            <abbr style=" text-align: center; font-family: calibri; color: white;"title="Programming in Qt"><img src="img/Picturenew.png" width="230px" height="240px"></abbr></a>
+
+       
+    </div>
+    </center>
+
+    
   <script>
         // Wrap every letter in a span
     var textWrapper = document.querySelector('.ml1 .letters');
@@ -116,5 +131,6 @@
         delay: 1000
       });
     </script>
-  </body>
+
+</body>
 </html>
