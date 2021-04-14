@@ -2,6 +2,12 @@
 ## PAGE MAINTANCE BY NASTOS VASILEIOS
 ### PAGE POWERED BY w3.css
 
+**This is a page used for personal use,designed and updated by Nastos Vasileios**<br>
+**Last update at:14/4/2021**
+
+<br>
+<br>
+
 ## LICENCES
 **MIT LICENCE**<br>
 > Copyright 2021 Nastos Vasileios
@@ -19,5 +25,5 @@
 * Qt-->[image_url](https://www.deviantart.com/balxavier/art/Qt-icon-206193674
 * C->https://ak.picdn.net/shutterstock/videos/1032438674/thumb/7.jpg)
 * Python-->[image_url](https://mindxmaster.s3.amazonaws.com/wp-content/uploads/2017/09/1_python.jpg)
-* Html-->[image_url](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/hNQEpv1uR5UdRen5xP9Cjxez/ 035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882)
+* Html-->[image_url](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/hNQEpv1uR5UdRen5xP9Cjxez/ 035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882\)
 * Jsp-->[image_url](https://www.pngkey.com/png/full/215-2156867_jsp-model-united-nations.png)
