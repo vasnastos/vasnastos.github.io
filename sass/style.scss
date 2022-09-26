@@ -418,6 +418,7 @@ figure {
 				padding: 2.5em;
 				position: relative;
 				.desc{
+					color:white;
 				}
 				@media screen and (max-width: $screen-sm ) {
 					text-align: center;
@@ -895,10 +896,12 @@ margin-left: -20px;
 	}
 	.desc{
 		margin-top: 60px;
+		color:white;
 		h3{
 			font-size: 16px;
 			font-weight: 700;
 			text-transform: uppercase;
+			color:white;
 		}
 	}
 	&.color-2{
